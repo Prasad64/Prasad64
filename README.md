@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Levizol
 - 👀 I’m interested in web development and web apps
-- 🌱 I’m currently learning HTML, CSS and javasceipt
+- 🌱 I’m currently learning HTML, CSS and javascript
 - 💞️ I’m looking to collaborate on my college assignment for building a webapp.
 - 📫 How to reach me ... If you looking to contact me you can mail me at sikdarprasadranjan2000@gmail.com
 
